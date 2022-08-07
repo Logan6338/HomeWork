@@ -5,5 +5,4 @@ int N = Convert.ToInt32(Console.ReadLine());
     Console.Write("{0} ", i);
    }
   Console.ReadKey();
-  return 0;
    
